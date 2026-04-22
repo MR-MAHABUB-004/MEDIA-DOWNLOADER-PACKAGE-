@@ -1,0 +1,20 @@
+{
+  "name": "mahabub-alldl",
+  "version": "1.0.0",
+  "description": "Universal downloader (TikTok, YouTube, Facebook, Instagram, Pinterest, CapCut, Drive, TeraBox)",
+  "main": "index.js",
+  "type": "commonjs",
+  "keywords": [
+    "tiktok downloader",
+    "youtube downloader",
+    "facebook video downloader",
+    "instagram downloader",
+    "pinterest downloader",
+    "terabox downloader"
+  ],
+  "author": "Mahabub",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.0"
+  }
+}
